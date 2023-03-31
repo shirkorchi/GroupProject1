@@ -1,5 +1,7 @@
 # GroupProject1-Queries<img width="872" alt="Screenshot 2023-03-30 at 7 16 35 PM" src="https://user-images.githubusercontent.com/128431687/228985461-fb966b2b-ddf2-41c1-adf1-21a9ce91bb04.png">
 
+# Data Model<img
+
 TP_03:This query demonstrates the number of times messages were sent during the day (12 pm - 6pm) and what community they belonged to. From a managerial aspect, this would be important because it demonstrates the pattern of when group members are more active and what type of groups are interactive at certain times. This can help with knowing when are peak times to post specific ads or to learn when group members are not active and work to make the group interactive during the other times of day.
 
 
