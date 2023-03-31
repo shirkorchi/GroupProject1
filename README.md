@@ -1,7 +1,7 @@
-# Instagram
+# Instagram - Group 21479_8
 
 # Group Members
-- Emma Dolson
+- Emma Dolson: https://github.com/eld49325/EmmaDolson_MIST4610GroupProject1#21479_8-members
 - Hannah Kelly
 - Shir Kochi
 - Kaden Williams
