@@ -1,4 +1,4 @@
-# GroupProject1-Queries
+# Instagram
 
 # Group Members
 - Emma Dolson
@@ -6,6 +6,14 @@
 - Shir Kochi
 - Kaden Williams
 - Donovan Vanderpool
+
+# Problem Description
+Our data model represents the social media app, Instagram. The model consists of user accounts, which have associated profiles, content, and followers/following relationships. Each post can have multiple associated media, such as images or videos, which users can interact with through likes, comments, and shares. Instagram also supports messaging between users and the creation of stories, which are temporary posts that expire after a set time period. Tracking user activity helps Instagram generate personalized recommendations and trends to improve user experience. Despite being one of the most popular social media platforms in the world, Instagram does not allow its users to schedule posts in advance or to create communities of niche interests. From a backend perspective, our model demonstrates how users would interact with these two features and new insights Instagram could gain from them.
+
+# Data Model
+![image](https://user-images.githubusercontent.com/128431687/229206827-5b3a354d-d66f-47c4-8aea-3a7e74c22aea.png)
+
+
 
 <img width="872" alt="Screenshot 2023-03-30 at 7 16 35 PM" src="https://user-images.githubusercontent.com/128431687/228985461-fb966b2b-ddf2-41c1-adf1-21a9ce91bb04.png">
 
