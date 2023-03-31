@@ -15,6 +15,14 @@ Our data model represents the social media app, Instagram. The model consists of
 
 A user can have many accounts but an account can only have one user. An account can send and receive many messages but a message can only have one sender and one receiver. The content scheduler can schedule multiple instances of content but an instance of content can only have one schedule. Accounts and content can have many shares but each share can only belong to one account that shares one instance of content. Accounts can make many comments but one comment can only be made by one account. Content can have many comments but one comment can only be added to one instance of content. Accounts and content can have many likes but a like can only belong to one account and one instance of content. Accounts can belong to many communities and communities can have many accounts. Communities can have many community types and community types can have many communities.
 
+# Data Dictionary 
+[Data.Dictionary.pdf](https://github.com/shirkorchi/GroupProject1/files/11125146/Data.Dictionary.pdf)
+
+# Queries
+![image](https://user-images.githubusercontent.com/128431687/229207632-a2cb0882-bce8-4af6-aca9-3efeb2387121.png)
+
+TP_Q1: This query converts the user's date of birth into their age as an integer and then returns the names of users who are younger than the input age. A query like this is helpful for censoring content like rated R movie trailers or explicit music for underage users.
+
 <img width="872" alt="Screenshot 2023-03-30 at 7 16 35 PM" src="https://user-images.githubusercontent.com/128431687/228985461-fb966b2b-ddf2-41c1-adf1-21a9ce91bb04.png">
 
 
