@@ -5,4 +5,4 @@ TP_03:This query demonstrates the number of times messages were sent during the 
 
 <img width="1141" alt="Screenshot 2023-03-30 at 7 08 59 PM" src="https://user-images.githubusercontent.com/128431687/228985695-85a9a6b9-153f-4891-acf9-87dcff2ec019.png">
 
-TP_Q6: This query displays all the account info with the community they belong to only for the accounts that use content scheduling. From a managerial aspect, the query is important because it captures the pattern of the groups who use content scheduling. This can help by telling us which groups/accounts do not use it 
+TP_Q6: This query displays all the account info with the community they belong to only for the accounts that use content scheduling. From a managerial aspect, the query is important because it captures the pattern of the groups who use content scheduling. This helps by telling us which groups/accounts do not use it and with that information, we can find out why they don't and what we can do to encourage them to use the feature. 
